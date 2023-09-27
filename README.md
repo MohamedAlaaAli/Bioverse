@@ -49,7 +49,7 @@ To train the Prototypical Network with the ResNet18 backbone on your specific da
 
 4. Monitor training: Use TensorBoard or inspect the training logs to monitor the training progress.
 
-## 6. Inference
+## 5. Inference
 
 To perform inference and make predictions using the trained model:
 
@@ -60,7 +60,7 @@ To perform inference and make predictions using the trained model:
 3. Use the trained model to compute the prototypes and make predictions based on the few-shot query.
 
 
-## 7. Acknowledgments
+## 6. Acknowledgments
 
 I would like to acknowledge the organizers of the BioVerse Hackathon for providing the opportunity to work on this challenging problem. I also want to thank the open-source community for their contributions to the libraries and frameworks used in this solution.
 
